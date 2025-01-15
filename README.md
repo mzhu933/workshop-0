@@ -19,3 +19,7 @@ Light gray background,
 Dark blue stroke, 
 Light blue fill, 
 Move with mouse
+
+<img width="663" alt="截屏2025-01-15 上午10 08 38" src="https://github.com/user-attachments/assets/4ad1f364-ed5e-4371-9e59-2bdd4aca51db" />
+<img width="898" alt="截屏2025-01-15 上午10 09 01" src="https://github.com/user-attachments/assets/744f8779-43e7-4c17-8b9d-3231c6adc7f1" />
+
